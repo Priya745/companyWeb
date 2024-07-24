@@ -4,30 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ac9e63d-502a-41e5-8a08-e67404f38fcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/companyWeb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contact_us.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topics.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web.py" afterDir="false" />
+    <list default="true" id="4ac9e63d-502a-41e5-8a08-e67404f38fcf" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.contact_us.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/companyweb/companyWeb&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.contact_us.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/companyweb/companyWeb",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\companyweb\companyWeb" />
@@ -111,6 +90,30 @@
       <option name="presentableId" value="Default" />
       <updated>1721793972047</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721843342328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721843342329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
